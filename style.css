@@ -1,20 +1,27 @@
 main.container{
-  background-color: red;
+  border:solid;
   width:800px;
   margin: auto;
   margin-top: 50px;
 }
 
 .phoneContainer{
-  height:200px;
-  width: 398px;
+  width: 440px;
   display:inline-block;
-  background-color: green;
+  text-align: center;
+  border:solid;
 }
 
 .signinContainer{
   height:200px;
-  width: 398px;
+  width: 348px;
+  background-color:blue;
   display:inline-block;
-  background-color: blue;
+}
+
+.phoneContainer img{
+  width:400px;
+  margin-top: 40px;
+
+
 }
