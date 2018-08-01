@@ -1,4 +1,20 @@
-body{
+main.container{
   background-color: red;
+  width:800px;
+  margin: auto;
+  margin-top: 50px;
+}
 
+.phoneContainer{
+  height:200px;
+  width: 398px;
+  display:inline-block;
+  background-color: green;
+}
+
+.signinContainer{
+  height:200px;
+  width: 398px;
+  display:inline-block;
+  background-color: blue;
 }
